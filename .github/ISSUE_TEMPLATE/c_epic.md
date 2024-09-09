@@ -9,6 +9,8 @@ version: "v1.0.1"
 
 This :crown: Epic represents all :card_index: Task Collections for one User Story inside :trophy: goal mentioned in the title of this issue.
 
+### QA
+
 ### Summary
 
 DevOps link: AB#ticketNumber

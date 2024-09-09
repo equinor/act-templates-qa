@@ -10,6 +10,8 @@ This is a maintenance collection that contains one or more groups of tasks. Reme
 
 > Remember the goal type of your tasks here. If any existing tasks are related to another :trophy: Goal type, they should be moved to respective :crown: Epic ->  inside that specific :card_index: maintenance collection.
 
+### QA
+
 ### Summary
 
 DevOps link: AB#ticketNumber

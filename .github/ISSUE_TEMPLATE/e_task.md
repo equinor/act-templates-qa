@@ -10,6 +10,8 @@ Member of a Collection. Represents a single Pull Request or one manual operation
 
 > Remember the goal type of your task here. If this task is related to another :trophy: Goal type, they should be moved to respective :crown: Epic ->  inside that specific :card_index: collection.
 
+### QA
+
 ### Summary
 
 DevOps link: AB#ticketNumber

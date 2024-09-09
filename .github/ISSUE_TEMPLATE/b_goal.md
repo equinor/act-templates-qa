@@ -9,6 +9,8 @@ title: "\U0001f3c6 g-<team_alias>: <IaC|CI/CD|Backup|Monitoring|Disaster Recover
 
 This goal represents <goal_type> delivery from Azure Champions to the <team_name> team. It contains a set of :crown: Epics related to this specific goal.
 
+### QA
+
 ## Epics
 
 - [ ] :crown: e-<team_alias>:
