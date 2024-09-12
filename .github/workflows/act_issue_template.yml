@@ -1,0 +1,17 @@
+name: ACT issue templates
+
+on:
+  workflow_dispatch:
+
+  issues:
+    types:
+      - opened
+
+jobs:
+  act_issue_templates:
+    uses: equinor/ops-py/.github/workflows/act_issue_templates.yml@main
+    with:
+      environment: act-templates
+      team_alias: act
+    secrets:
+      SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
