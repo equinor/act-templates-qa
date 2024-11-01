@@ -1,22 +1,12 @@
 ---
 name: 'Task'
-about: 'Member of a Collection. Represents a single Pull Request or one manual operation.'
+about: 'Represents a single Pull Request or one manual operation. Remember to connect the task to a parent issue.'
 title: ''
 ---
 
-## Purpose
+### Description
 
-Member of a Collection. Represents a single Pull Request or one manual operation.
-
-> Remember the goal type of your task here. If this task is related to another :trophy: Goal type, they should be moved to respective :crown: Epic ->  inside that specific :card_index: collection.
-
-### QA
-
-### Summary
-
-DevOps link: AB#ticketNumber
-
-This task changes/maps/updates etc... <!-- Briefly explain task  -->
+DevOps link: AB#
 
 #### Acceptance Criteria
 
@@ -27,3 +17,5 @@ This task changes/maps/updates etc... <!-- Briefly explain task  -->
 - [ ]
 
 > Please remember to create branch from this issue to make sure Pull Request closes this issue automatically. Use conventional commits. [GitHub Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), [Cyclops Documentation](https://urban-waffle-59ea765a.pages.github.io/issues/)
+
+**Please remember to create a task as Sub-Issue for better tracking!**

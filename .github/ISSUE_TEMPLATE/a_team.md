@@ -6,8 +6,6 @@ title: "\U0001f680 <team_name>"
 ---
 ### <team_name> `<team_alias>`
 
-### QA
-
 #### Timewriting
 
 Azure Champions Team FTE granted: `<number>`
